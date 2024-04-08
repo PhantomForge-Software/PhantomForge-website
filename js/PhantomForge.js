@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
     // Voeg een click-eventlistener toe aan de knop
     discord.addEventListener("click", function() {
         // Navigeer naar de gewenste website
-        window.location.href = "https://discord.gg/4fTFXz5W";
+        window.location.href = "https://discord.gg/u9F3Y8pmfh";
     });
     // Zoek de knop op basis van het id-attribuut
     var discord_Voodoo = document.getElementById("discord_Voodoo");
